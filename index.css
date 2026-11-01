@@ -1,6 +1,6 @@
 ﻿body{
     margin: 0;
-    background-color: #222222
+    background-color: #EEEEEE
 }
 
 .nav-link{
@@ -19,7 +19,7 @@ section{
     padding: 16px;
 }
 
-title{
+#title{
     font-size: 40px;
     font-weight: 800;
 }
